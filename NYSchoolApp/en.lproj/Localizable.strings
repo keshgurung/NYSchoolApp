@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  NYSchoolApp
+
+  Created by Kesh Gurung on 31/03/2023.
+  
+*/
+
+"Name: %@" = "Name: %@";
+"Website: %@" = "Website: %@";
+"Phone: %@" = "Phone: %@";
+"City: %@" = "City: %@";
+"Overview: %@" = "Overview: %@";
+"SchoolLists" = "Schools";
